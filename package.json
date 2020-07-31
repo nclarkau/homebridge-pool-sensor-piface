@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-pool-sensor-piface",
+  "version": "1.0.1",
+  "description": "Exposes a pool temperature accessory to HomeBridge that uses a RaspberryPi with Piface board",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+	  "pool",
+    "piface"
+  ],
+  "author": "LeJeko",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "engines": {
+    "node": ">=0.10.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "piface-node-12": "^1.0.0"
+  }
+}

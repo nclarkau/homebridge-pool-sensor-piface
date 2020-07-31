@@ -1,0 +1,6 @@
+{
+			"accessory": "PoolPiFace",
+			"name": "Pool",
+			"pollInMs": 4000,
+			"refresh": 60
+		}
